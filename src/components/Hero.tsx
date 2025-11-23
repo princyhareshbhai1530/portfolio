@@ -58,7 +58,7 @@ export default function Hero() {
               <Github size={24} />
             </a>
             <a
-              href="https://www.linkedin.com/in/princy-patel"
+              href="https://www.linkedin.com/in/princypatel"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-gray-800/50 rounded-lg text-gray-300 hover:text-white hover:bg-gray-700 transition-all duration-200 hover:scale-110"
