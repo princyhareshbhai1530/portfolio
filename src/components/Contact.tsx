@@ -131,7 +131,7 @@ export default function Contact() {
 
         <div className="mt-16 pt-8 border-t border-gray-800 text-center">
           <p className="text-gray-400 text-sm">
-            © 2025 Princy Patel. Built with React, TypeScript, and Tailwind CSS.
+            © 2025 Princy Patel. All Rights Reserved.
           </p>
         </div>
       </div>
